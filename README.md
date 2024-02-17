@@ -33,4 +33,4 @@ https://colab.research.google.com/drive/1YAO6n4bLo70q2IiPdxnigLQbFi6zndTy?usp=sh
 </p>
 <h3 align="center">Рис.3</h3>
 Решение:
-https://drive.google.com/file/d/1KkCC5kSFLUaBQ-slTuPqiSc6OCtBwIA6/view?usp=sharing
+https://colab.research.google.com/drive/1KkCC5kSFLUaBQ-slTuPqiSc6OCtBwIA6
