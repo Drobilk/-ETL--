@@ -3,7 +3,8 @@
 <h1 align="center">Практическая работа №1. Источники данных. Извлечение данных</h1>
 <h3 align="center">Выполнила студентка Кахуджи Диана Тарек</h3>
 
-## 1. Выполенение примера. 
+## 1. Выполенение примера.
+   
 Архитектура аналитического решения на Рис.1.
 <p align="center">
 <img  src="https://github.com/Drobilk/-ETL--/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-02-16%20160339.png"  width="350" alt="Calculate-BMI-and-risk-category"/>
@@ -11,7 +12,9 @@
 <h3 align="center">Рис.1</h3>
 Решение:
 https://colab.research.google.com/drive/1n79RN3Cz1NYjmnBEYxZxezAffC4zzJG6?usp=sharing
-## 2.  Парсинг веб-страниц с помощью Beautiful Soup и Pandas открытых источников данных, согласно варианту 9.
+## 
+
+2.  Парсинг веб-страниц с помощью Beautiful Soup и Pandas открытых источников данных, согласно варианту 9.
 Предложенный сайт для парсинга недоступен, платный доступ - https://investmint.ru/
 Доступный сайт для парсинга - https://open-broker.ru/analytics/dividend-calendar/
 Архитектура решения на Рис.2.
