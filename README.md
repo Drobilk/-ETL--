@@ -12,9 +12,9 @@
 <h3 align="center">Рис.1</h3>
 Решение:
 https://colab.research.google.com/drive/1n79RN3Cz1NYjmnBEYxZxezAffC4zzJG6?usp=sharing
-## 
 
-2.  Парсинг веб-страниц с помощью Beautiful Soup и Pandas открытых источников данных, согласно варианту 9.
+## 2.  Парсинг веб-страниц с помощью Beautiful Soup и Pandas открытых источников данных, согласно варианту 9.
+
 Предложенный сайт для парсинга недоступен, платный доступ - https://investmint.ru/
 Доступный сайт для парсинга - https://open-broker.ru/analytics/dividend-calendar/
 Архитектура решения на Рис.2.
